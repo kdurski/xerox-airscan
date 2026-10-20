@@ -1,0 +1,8 @@
+{
+  "scanner_address": "192.0.2.10:9400",
+  "listen_address": "0.0.0.0:8090",
+  "name": "Xerox WorkCentre 3225 AirScan",
+  "bonjour": true,
+  "feeder": true,
+  "verbose": false
+}

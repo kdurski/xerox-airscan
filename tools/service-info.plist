@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleIdentifier</key><string>local.xerox-airscan</string>
+  <key>CFBundleName</key><string>Xerox AirScan</string>
+  <key>CFBundleDisplayName</key><string>Xerox AirScan</string>
+  <key>CFBundleExecutable</key><string>xerox-airscan</string>
+  <key>CFBundlePackageType</key><string>APPL</string>
+  <key>CFBundleVersion</key><string>1</string>
+  <key>CFBundleShortVersionString</key><string>1.0</string>
+  <key>LSUIElement</key><true/>
+  <key>NSLocalNetworkUsageDescription</key>
+  <string>Connect to your Xerox scanner and make it available in Image Capture.</string>
+  <key>NSBonjourServices</key><array><string>_uscan._tcp</string></array>
+</dict>
+</plist>
